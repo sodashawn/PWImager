@@ -1,5 +1,4 @@
 # Pixelworlds Imager
-<h6>By Parmashawn</h6>
 
 # Information
 Pixelworlds Imager is a tool for converting images to pixelworlds block art. It is free to use and you can use it as a guide for creating pixel art in-game.
