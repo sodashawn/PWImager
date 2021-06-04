@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Pixelworlds Imager
+<h6>By Parmashawn</h6>
 
-You can use the [editor on GitHub](https://github.com/sodashawn/PWImager/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Information
+Pixelworlds Imager is a tool for converting images to pixelworlds block art. It is free to use and you can use it as a guide for creating pixel art in-game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Walkthrough
+The program is very simple and self explanatory.
 
-### Markdown
+![example](https://github.com/sodashawn/PWImager/blob/main/examples/example_1.png)
+<br>**Use the "select image" button to find an image.** Default is a duck.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![example](https://github.com/sodashawn/PWImager/blob/main/examples/example_2.png)
+<br>**In the blocks tab you can select which blocks you want to include in the output.**
 
-```markdown
-Syntax highlighted code block
+![example](https://github.com/sodashawn/PWImager/blob/main/examples/example_3.png)
+<br>**Press Convert and the converted image will be displayed. Press save to save the image**
 
-# Header 1
-## Header 2
-### Header 3
+![example](https://github.com/sodashawn/PWImager/blob/main/examples/example_4.png)
+<br>**The Output tab shows the list of blocks.**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sodashawn/PWImager/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Download
+I couldn't find a great free file hoster because of the size of the download was just a little above limitations. 
+However for now you can [click here to download Pixelworlds Imager.](https://www32.zippyshare.com/d/SMLgAxM1/4710/PW%20Imager.zip)
+let me know if this works :+1: 
+make sure to tag me in the Arts you post so that I can see what you guys create!
