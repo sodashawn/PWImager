@@ -21,6 +21,6 @@ The program is very simple and self explanatory.
 
 # Download
 I couldn't find a great free file hoster because of the size of the download was just a little above limitations. 
-However for now you can [click here to download Pixelworlds Imager.](https://www32.zippyshare.com/d/SMLgAxM1/4710/PW%20Imager.zip)
+However for now you can [click here to download Pixelworlds Imager.](https://mega.nz/file/d1RRUSQT#wY5lcqq7Vboae0X0ZzKx3CBqRs2aiMFlC_odcuBoGaE)
 let me know if this works :+1: 
 make sure to tag me in the Arts you post so that I can see what you guys create!
